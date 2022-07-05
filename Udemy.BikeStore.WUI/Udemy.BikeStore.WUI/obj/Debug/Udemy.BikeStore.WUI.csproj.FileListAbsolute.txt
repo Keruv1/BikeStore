@@ -1,0 +1,14 @@
+C:\Users\W10\source\repos\Udemy.BikeStore.WUI\Udemy.BikeStore.WUI\bin\Debug\Udemy.BikeStore.WUI.exe.config
+C:\Users\W10\source\repos\Udemy.BikeStore.WUI\Udemy.BikeStore.WUI\bin\Debug\Udemy.BikeStore.WUI.exe
+C:\Users\W10\source\repos\Udemy.BikeStore.WUI\Udemy.BikeStore.WUI\bin\Debug\Udemy.BikeStore.WUI.pdb
+C:\Users\W10\source\repos\Udemy.BikeStore.WUI\Udemy.BikeStore.WUI\bin\Debug\Dapper.dll
+C:\Users\W10\source\repos\Udemy.BikeStore.WUI\Udemy.BikeStore.WUI\bin\Debug\Dapper.xml
+C:\Users\W10\source\repos\Udemy.BikeStore.WUI\Udemy.BikeStore.WUI\obj\Debug\Udemy.BikeStore.WUI.csproj.AssemblyReference.cache
+C:\Users\W10\source\repos\Udemy.BikeStore.WUI\Udemy.BikeStore.WUI\obj\Debug\Udemy.BikeStore.WUI.Forms.MainForm.resources
+C:\Users\W10\source\repos\Udemy.BikeStore.WUI\Udemy.BikeStore.WUI\obj\Debug\Udemy.BikeStore.WUI.Properties.Resources.resources
+C:\Users\W10\source\repos\Udemy.BikeStore.WUI\Udemy.BikeStore.WUI\obj\Debug\Udemy.BikeStore.WUI.csproj.GenerateResource.cache
+C:\Users\W10\source\repos\Udemy.BikeStore.WUI\Udemy.BikeStore.WUI\obj\Debug\Udemy.BikeStore.WUI.csproj.CoreCompileInputs.cache
+C:\Users\W10\source\repos\Udemy.BikeStore.WUI\Udemy.BikeStore.WUI\obj\Debug\Udemy.BikeStore.WUI.csproj.CopyComplete
+C:\Users\W10\source\repos\Udemy.BikeStore.WUI\Udemy.BikeStore.WUI\obj\Debug\Udemy.BikeStore.WUI.exe
+C:\Users\W10\source\repos\Udemy.BikeStore.WUI\Udemy.BikeStore.WUI\obj\Debug\Udemy.BikeStore.WUI.pdb
+C:\Users\W10\source\repos\Udemy.BikeStore.WUI\Udemy.BikeStore.WUI\obj\Debug\Udemy.BikeStore.WUI.Forms.UpdateProductForm.resources
